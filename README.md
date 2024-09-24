@@ -11,7 +11,7 @@
 **to install, you will need the latest version of go**
 
 ```bash 
-git clone <clone url>
+git clone https://github.com/vdsEngineer/treeFiles.git
 cd treeFiles
 go build -o ./bin/
 ```
